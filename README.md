@@ -1,7 +1,7 @@
 # Database-MySQL-1
 Database adalah kumpulan data yang terorganisir dan dapat diakses dengan mudah. Fundamental database MySQL untuk pengembangan web.
 
-# Tugas Database Perpustakaan
+# Tugas 1: Eksplorasi Database dengan Query
 
 ## 1. Total Buku
 ![Total Buku](images-pw/total_buku.png)
